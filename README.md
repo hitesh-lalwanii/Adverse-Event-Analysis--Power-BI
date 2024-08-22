@@ -36,3 +36,8 @@ The project focused on cleaning and transforming the data, developing calculated
 
 The project developed an interactive Power BI dashboard that effectively analyzes adverse event data, supporting data-driven decisions for enhanced product safety.
 
+![Screenshot (5)](https://github.com/user-attachments/assets/661a7835-d655-4bf0-b2a8-b39cda11d7a3)
+
+
+
+
