@@ -21,6 +21,9 @@ The project focused on cleaning and transforming the data, developing calculated
 3. Gender and Age Analysis: Revealed demographic trends, showing how adverse events are distributed across different gender and age groups.
 4. Outcome and Symptom Analysis: Categorized outcomes and analyzed symptom frequency to understand the severity and nature of reported events.
 
+![Screenshot (5)](https://github.com/user-attachments/assets/661a7835-d655-4bf0-b2a8-b39cda11d7a3)
+
+
 # Technical Overview
 
 1. Data Transformation and Modeling: Utilized advanced DAX functions and Power BI's data modeling capabilities to handle large datasets efficiently and create insightful measures.
@@ -36,7 +39,6 @@ The project focused on cleaning and transforming the data, developing calculated
 
 The project developed an interactive Power BI dashboard that effectively analyzes adverse event data, supporting data-driven decisions for enhanced product safety.
 
-![Screenshot (5)](https://github.com/user-attachments/assets/661a7835-d655-4bf0-b2a8-b39cda11d7a3)
 
 
 
